@@ -9,3 +9,6 @@ Configuration files and performance testing scripts to setup and optimize a dedi
 
 to exit:
 `ctrl+a d`
+
+## Credit
+https://www.jamesachambers.com/2017/06/raspberry-pi-dedicated-minecraft-v1-12-server-excellent-performance-guide/
